@@ -24,3 +24,4 @@ If you want to read more about different flavors of Zettelkasten or knowledge ma
   - https://www.youtube.com/watch?v=ziE6UExsOrs
 - [guide for setting up a Zettelkasten in Zettlr](https://knowactinvest.com/zettelkasten-in-zettlr-my-experience-6/)
 - [Andy Matuschak's famous public Zettelkasten](https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic)
+- [Summary of Sönke Ahren's book "How to take Smart Notes"](https://aliabdaal.com/book-notes/how-to-take-smart-notes/#:~:text=Write%20exactly%20one%20note%20for,or%20subjects%20you%20care%20about.)
